@@ -9,6 +9,7 @@ The critical files for this execution are cipher.cpp cipher.h and classworkApp.c
 All other files were done by me just to practice my c++ so I don't get rusty
 
 <-------------------------------------------------------------General Operations------------------------------------------------------------->
+
 Overview: There are 5 different options for compilation
           make class_answer
           make encrypt_string_test
@@ -16,6 +17,7 @@ Overview: There are 5 different options for compilation
           make console_encrypt
           make textfile_encrypt
 The cipher only works for lowercase letter of the english alphabet
+
 <----------------------------------------------------------------Class Answer---------------------------------------------------------------->
 
 Command: make class_answer
